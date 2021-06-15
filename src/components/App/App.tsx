@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TestComponent/>
+        <TestComponent name ="Tiago"/>
         <ClassComponent/>
         <a
           className="App-link"
