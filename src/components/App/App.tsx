@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
 import TestComponent from '../TestComponent';
+import ClassComponent from '../ClassComponent/ClassComponent';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
- 
+        <ClassComponent name="Mundo"/>
         <TestComponent/>
         <a
           className="App-link"
