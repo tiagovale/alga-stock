@@ -7,8 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ClassComponent name="Mundo"/>
-        <TestComponent/>
+        <TestComponent name="Tiago"/>
         <a
           className="App-link"
           href="https://reactjs.org"
